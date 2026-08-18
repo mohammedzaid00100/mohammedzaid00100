@@ -64,7 +64,6 @@ Higher‑secondary science student from India · Learning programming and buildi
 </p>
 
 
-\
 
 ### 💭 Dev Quote
 
