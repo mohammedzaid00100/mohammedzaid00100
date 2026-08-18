@@ -49,6 +49,9 @@ Higher‑secondary science student from India · Learning programming and buildi
 ### 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://zaid-portfolio-mocha.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+<p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/mohammed-zaid-88b408424" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohammedzaid00100@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
