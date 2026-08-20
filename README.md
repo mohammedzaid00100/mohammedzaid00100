@@ -61,6 +61,8 @@ Higher‑secondary science student from India · Learning programming and buildi
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mohammedzaid00100&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mohammedzaid00100&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+
 ### 📈 Contribution Graph
 
 <p align="center">
