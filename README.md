@@ -25,6 +25,7 @@ I'm a higher-secondary science student from India who learns by shipping. I turn
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
+| **Nalanda English Medium Higher Secondary School** | A multi-page school website covering academics, admissions, campus information, student life, rules, disclosures, and contact information. | HTML, CSS, JavaScript, JSON | [Code](https://github.com/mohammedzaid00100/Nalanda-Engish-Medium-Higher-Secondary-School) |
 | **TimeDesk** | A focused clock, timer, and stopwatch suite with a minimal dark interface. | HTML, CSS, JavaScript | [Code](https://github.com/mohammedzaid00100/TimeDesk) · [Live](https://timedeskofficial.netlify.app/) |
 | **PlotGraphify** | An offline-first PWA experiment for creating line graphs from custom data. Published with honest notes about its unfinished state and lessons learned. | HTML, CSS, JavaScript, PWA | [Code](https://github.com/mohammedzaid00100/PlotGraphify) |
 | **Daily Routine Scheduler** | An experimental scheduling and task-management application that pushed me into React and backend architecture. | React, Vite, Tailwind CSS, Node.js, Express, MongoDB | [Code](https://github.com/mohammedzaid00100/daily-routine-scheduler) |
@@ -39,13 +40,6 @@ I'm a higher-secondary science student from India who learns by shipping. I turn
 ## Right now
 
 I'm improving my backend fundamentals and building smaller products with clearer scope, cleaner code, and a real user problem behind them. I'm open to collaborating on beginner-friendly web projects, productivity tools, and practical JavaScript applications.
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammedzaid00100&show_icons=true&hide_border=true&theme=transparent" alt="Mohammed Zaid's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedzaid00100&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
-</p>
 
 ---
 
