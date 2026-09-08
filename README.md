@@ -1,7 +1,7 @@
 <h1 align="center">Mohammed Zaid</h1>
 
 <p align="center">
-  <strong>AI-assisted web developer building practical products with JavaScript.</strong>
+  <strong>AI-assisted developer building practical products with JavaScript.</strong>
 </p>
 
 <p align="center">
