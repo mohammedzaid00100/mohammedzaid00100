@@ -20,6 +20,7 @@ My projects span browser interfaces, local Python services, native Android appli
 
 | Project | What it does | Stack | Links / status |
 |---|---|---|---|
+| **Decibel tracker** | Native Android sound meter with live decibel readings, analog gauge, color-coded graphs, local recording history, and PDF report export, built with Kotlin and Jetpack Compose. | Kotlin, Jetpack Compose, Android AudioRecord, Room, PDF| [Code](https://github.com/mohammedzaid00100/Decibel_tracker) |
 | **Hogwarts** | Local-first Android messaging prototype built with Kotlin, Jetpack Compose, Firebase and Room, with username discovery, friend requests, text/image chat and client-side encryption code. Under active development. | Kotlin, Compose, Firebase, Room | Private source · Development prototype |
 | **Aura Music** | Native Android music app with song downloads, local-first Media3 playback and downloaded-only playlists, built with Kotlin and Jetpack Compose. | Kotlin, Compose, Media3 | [Code](https://github.com/mohammedzaid00100/Aura-music) |
 | **Latch** | Android share-to-download utility for supported public video and audio links, with on-device extraction, format selection, queued downloads and local history. Built with Kotlin and Jetpack Compose. | Kotlin, Compose, Room, yt-dlp, FFmpeg | [Code](https://github.com/mohammedzaid00100/Latch) · Development build |
@@ -63,11 +64,11 @@ The Nalanda site is a student demo pending official school information and a res
 <details>
 <summary><strong>Earlier versions and archive notes</strong></summary>
 
-- **Collab Deal OS — original prototype:** [Earlier repository](https://github.com/mohammedzaid00100/collab-deal-os). Discontinued; the newer marketplace is linked above.
+- **Collab Deal OS — live website:**https://collabdealos.me/**
 - **Aura Music — earlier APK build work:** maintained separately from the current public `Aura-music` source.
 - **Companion — private development copy:** another copy of the same project, not a separate product.
 - **Web to EXE:** the desktop engine and product website are two parts of one product.
-- **SecureTraffic:** an earlier website experiment recorded in my project history. Detailed scope and a public source link are not documented here.
+- **Decibel Tracker**: the live sound measurement engine and PDF reporting system are two parts of one product.
 
 </details>
 
